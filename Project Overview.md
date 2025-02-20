@@ -1,6 +1,8 @@
 # Pizza-Sales-MySQL-
 MySQL project based on Pizza Sales
 
+# Dataset Used: https://drive.google.com/drive/folders/1tEBIWACR8wCvQmVPmVEDec6yPrLFDc6G?usp=sharing
+
 We start by taking the data of our Pizza Shop about the types, prices, kinds of pizzas, revenue and sales generated and go on to answer a few questions on sales.
 The problem statements solved are: 
 
